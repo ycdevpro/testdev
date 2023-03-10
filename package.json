@@ -1,0 +1,23 @@
+{
+  "name": "testdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "git-test.js",
+  "scripts": {
+    "test": "git-test.js"
+  },
+  "dependencies": {
+    "random": "^3.0.0",
+    "simple-git": "^3.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycdevpro/testdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycdevpro/testdev/issues"
+  },
+  "homepage": "https://github.com/ycdevpro/testdev#readme"
+}
