@@ -2,9 +2,9 @@
   "name": "testdev",
   "version": "1.0.0",
   "description": "",
-  "main": "git-test.js",
+  "main": "index.js",
   "scripts": {
-    "test": "git-test.js"
+    "test": "index.js"
   },
   "dependencies": {
     "random": "^3.0.0",
